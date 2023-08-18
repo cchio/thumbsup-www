@@ -1,1 +1,1 @@
-# thumbsup-www
+# thumbsup
